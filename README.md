@@ -3,6 +3,8 @@
 ## Mapishi Bora website
 This is a recipe search project that allows users to search for recipes using different ingredients. The project is built using HTML, CSS, and JavaScript, and makes use of the RealmealDB API to display search results.
 
+here is the frotend link https://john-muchuku.github.io/phase-1-independent-project/ 
+
 ## Features
 The Recipe Search website includes the following features:
 
